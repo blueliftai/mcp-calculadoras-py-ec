@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "blueliftai-calculadoras": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://www.blueliftai.tech/mcp"]
+    }
+  }
+}

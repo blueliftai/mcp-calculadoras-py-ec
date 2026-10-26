@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "blueliftai-calculadoras": {
+      "type": "http",
+      "url": "https://www.blueliftai.tech/mcp"
+    }
+  }
+}

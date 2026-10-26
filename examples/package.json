@@ -1,0 +1,11 @@
+{
+  "name": "blueliftai-mcp-test-client",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node test-client.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2"
+  }
+}

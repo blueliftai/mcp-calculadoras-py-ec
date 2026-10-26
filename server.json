@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.blueliftai/calculadoras-py-ec",
+  "title": "Calculadoras laborales y tributarias PY/EC",
+  "description": "Paraguay & Ecuador tax and labor calculators: IVA, severance, payroll, income tax, fines, RUC/CDC.",
+  "repository": {
+    "url": "https://github.com/blueliftai/mcp-calculadoras-py-ec",
+    "source": "github"
+  },
+  "websiteUrl": "https://www.blueliftai.tech/es/herramientas/asistente-ia/",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.blueliftai.tech/mcp"
+    }
+  ]
+}
