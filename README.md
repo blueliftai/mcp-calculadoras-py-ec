@@ -1,5 +1,7 @@
 # Calculadoras laborales y tributarias PY/EC · Servidor MCP de BlueliftAI
 
+[![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/blueliftai/mcp-calculadoras-py-ec)
+
 **Español** · [English](README.en.md)
 
 Servidor [MCP (Model Context Protocol)](https://modelcontextprotocol.io) público y gratuito con calculadoras laborales y tributarias de **Paraguay** y **Ecuador**: IVA, liquidación laboral, horas extras, costo de nómina (IPS, IESS, aguinaldo, décimos), impuesto a la renta, retenciones, multas por declaración tardía, multas de lavado de activos y validación de RUC, CDC y clave de acceso.
